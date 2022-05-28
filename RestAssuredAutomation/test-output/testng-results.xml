@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-23T18:50:29 EDT" name="Default suite" finished-at="2022-05-23T18:50:32 EDT" duration-ms="3314">
+  <suite started-at="2022-05-27T14:22:46 EDT" name="Default suite" finished-at="2022-05-27T14:22:50 EDT" duration-ms="3878">
     <groups>
     </groups>
-    <test started-at="2022-05-23T18:50:29 EDT" name="Default test" finished-at="2022-05-23T18:50:32 EDT" duration-ms="3314">
-      <class name="tests.PutPatchAndDeleteExamples">
-        <test-method signature="testDELETE()[pri:0, instance:tests.PutPatchAndDeleteExamples@22e357dc]" started-at="2022-05-23T18:50:29 EDT" name="testDELETE" finished-at="2022-05-23T18:50:31 EDT" duration-ms="2462" status="PASS">
+    <test started-at="2022-05-27T14:22:46 EDT" name="Default test" finished-at="2022-05-27T14:22:50 EDT" duration-ms="3878">
+      <class name="tests.TestExample">
+        <test-method signature="testPost()[pri:0, instance:tests.TestExample@22e357dc]" started-at="2022-05-27T14:22:46 EDT" name="testPost" finished-at="2022-05-27T14:22:49 EDT" duration-ms="2485" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testDELETE -->
-        <test-method signature="testPATCH()[pri:0, instance:tests.PutPatchAndDeleteExamples@22e357dc]" started-at="2022-05-23T18:50:31 EDT" name="testPATCH" finished-at="2022-05-23T18:50:32 EDT" duration-ms="465" status="PASS">
+        </test-method> <!-- testPost -->
+        <test-method signature="test_1()[pri:0, instance:tests.TestExample@22e357dc]" started-at="2022-05-27T14:22:49 EDT" name="test_1" finished-at="2022-05-27T14:22:49 EDT" duration-ms="168" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPATCH -->
-        <test-method signature="testPUT()[pri:0, instance:tests.PutPatchAndDeleteExamples@22e357dc]" started-at="2022-05-23T18:50:32 EDT" name="testPUT" finished-at="2022-05-23T18:50:32 EDT" duration-ms="319" status="PASS">
+        </test-method> <!-- test_1 -->
+        <test-method signature="test_2()[pri:0, instance:tests.TestExample@22e357dc]" started-at="2022-05-27T14:22:49 EDT" name="test_2" finished-at="2022-05-27T14:22:50 EDT" duration-ms="1155" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPUT -->
-      </class> <!-- tests.PutPatchAndDeleteExamples -->
+        </test-method> <!-- test_2 -->
+      </class> <!-- tests.TestExample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
